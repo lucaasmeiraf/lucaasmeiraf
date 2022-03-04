@@ -1,7 +1,7 @@
 ### Olá! Sou Lucas, é um prazer te receber em meu perfil, conheça um pouco sobre meus estudos de programação:
 
 - 📚 Graduado em Análise e Desenvolvimento de Sistemas, Cursando MBA em Computação Forense e Perícia Digital. 
-- 💻 Estudando JavaScript, Typescript, React.js
+- 💻 Estudando JavaScript, CSS3, HTML5, React.js
 - 🔋 Sempre pronto para novos aprendizados ⚡
 
 <div align="center">
