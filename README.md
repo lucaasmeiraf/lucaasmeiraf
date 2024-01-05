@@ -3,8 +3,9 @@
 - 📚 Graduado em Análise e Desenvolvimento de Sistemas. 
 - 💻 Estudando JavaScript, CSS3, HTML5, React.js
 - 🔋 Sempre pronto para novos aprendizados ⚡
+##
 
-<hr/>
+
 <div align="center">
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </div>
