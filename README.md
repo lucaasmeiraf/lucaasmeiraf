@@ -2,7 +2,9 @@
 
 ## Especialista em Inteligência Artificial | Desenvolvedor de Sistemas
 
-Bem-vindo ao meu perfil no GitHub! Sou um profissional apaixonado por **Inteligência Artificial** e **Desenvolvimento de Sistemas**, com uma sólida formação em Análise e Desenvolvimento de Sistemas. Minha jornada é impulsionada pela busca contínua por soluções inovadoras e eficientes, utilizando o poder da IA para transformar dados em insights e automações inteligentes.
+Bem-vindo ao meu perfil no GitHub! 
+
+Sou um profissional apaixonado por **Inteligência Artificial** e **Desenvolvimento de Sistemas**, com uma sólida formação em Análise e Desenvolvimento de Sistemas. Minha jornada é impulsionada pela busca contínua por soluções inovadoras e eficientes, utilizando o poder da IA para transformar dados em insights e automações inteligentes.
 
 ### Minhas Paixões e Expertise:
 
@@ -24,10 +26,4 @@ Bem-vindo ao meu perfil no GitHub! Sou um profissional apaixonado por **Intelig�
   <a href="https://www.linkedin.com/in/lucas-meira-311ba1208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/lucasmeiraf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucaas.meiraf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
----
-
-<div align="center">
-  <img align="center" alt="GIF" src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663082455421/rmTOPCdhLAMyAfpJ.gif" width="500" height="320" />
 </div>
