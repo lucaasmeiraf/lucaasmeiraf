@@ -29,5 +29,5 @@ Bem-vindo ao meu perfil no GitHub! Sou um profissional apaixonado por **Intelig√
 ---
 
 <div align="center">
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663082455421/rmTOPCdhLAMyAfpJ.gif" width="500" height="320" />
 </div>
